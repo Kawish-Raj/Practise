@@ -1,5 +1,5 @@
 # Practise
-Potato
+main
 bannana
 something
 progressing with the line 5 conflict
